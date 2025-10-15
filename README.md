@@ -15,9 +15,9 @@ AtliQ Hardware (imaginary company) is one of the leading computer hardware produ
 * Convert into visualizations and present insights to top-level management
 
 ## TOOLS & APPROACH:
-MySQL: Mastered concepts like Joins, CTEs, Subqueries, Window functions, String functions, Numeric functions, and Date functions.
-Excel: Created advanced visuals including Sunburst Charts, Bar Charts, Matrices, Line Charts, and Donut Charts.
-Canva: Designed presentations with attention to theme, color correction, and image editing.
+* **MySQL:** Mastered concepts like Joins, CTEs, Subqueries, Window functions, String functions, Numeric functions, and Date functions.
+* **Excel:** Created advanced visuals including Sunburst Charts, Bar Charts, Matrices, Line Charts, and Donut Charts.
+* **Canva:** Designed presentations with attention to theme, color correction, and image editing.
 
 ## 📋 Requests:
 **1.** Provide the list of markets in which customer "AtliQ Exclusive" operates its business in the APAC region.
@@ -41,5 +41,5 @@ Canva: Designed presentations with attention to theme, color correction, and ima
 **10.** Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? The final output contains these fields, division product_code,product total_sold_quantity rank_order
 
 ## FINDINGS & SOLUTIONS:
-Findings: Analyzed key metrics like Gross Profit, Contribution %, Orders by Overall Amount Sold, Average Gross Sales, and Average Manufacturing Costs.
-Solutions: Proposed strategies to boost production rates by offering memberships, gift certificates, bundled deals, student discounts, and other special promotions.
+* **Findings:*** Analyzed key metrics like Gross Profit, Contribution %, Orders by Overall Amount Sold, Average Gross Sales, and Average Manufacturing Costs.
+* **Solutions:** Proposed strategies to boost production rates by offering memberships, gift certificates, bundled deals, student discounts, and other special promotions.
