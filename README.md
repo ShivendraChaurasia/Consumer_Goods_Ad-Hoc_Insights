@@ -16,7 +16,7 @@ AtliQ Hardware (imaginary company) is one of the leading computer hardware produ
 
 ## TOOLS & APPROACH:
 * **MySQL:** Mastered concepts like Joins, CTEs, Subqueries, Window functions, String functions, Numeric functions, and Date functions.
-* **Excel:** Created advanced visuals including Sunburst Charts, Bar Charts, Matrices, Line Charts, and Donut Charts.
+* **Excel & Power BI:** Created advanced visuals including Sunburst Charts, Bar Charts, Matrices, Line Charts, and Donut Charts.
 * **Canva:** Designed presentations with attention to theme, color correction, and image editing.
 
 ## 📋 Requests:
