@@ -1,6 +1,6 @@
 # Consumer_Goods_Ad-Hoc_Insights
 
-### 📄 Codebasics Resume Project challenge -4
+### 📄 Codebasics Resume Project challenge - 4
 
 ## 👋 Introduction:
 AtliQ Hardware (imaginary company) is one of the leading computer hardware producers in India and well expanded in other countries too.
