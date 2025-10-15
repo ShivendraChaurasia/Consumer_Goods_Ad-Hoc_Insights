@@ -19,7 +19,7 @@ AtliQ Hardware (imaginary company) is one of the leading computer hardware produ
 * **Excel & Power BI:** Created advanced visuals including Sunburst Charts, Bar Charts, Matrices, Line Charts, and Donut Charts.
 * **Canva:** Designed presentations with attention to theme, color correction, and image editing.
 
-## [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMDJmYmU0MWMtMTRhNy00NDIzLWFhYzctNThlNmRkMjY2ZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+## 🔗 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMDJmYmU0MWMtMTRhNy00NDIzLWFhYzctNThlNmRkMjY2ZDg4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📋 Requests:
 **1.** Provide the list of markets in which customer "AtliQ Exclusive" operates its business in the APAC region.
