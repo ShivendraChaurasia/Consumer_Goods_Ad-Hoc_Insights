@@ -41,5 +41,5 @@ AtliQ Hardware (imaginary company) is one of the leading computer hardware produ
 **10.** Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? The final output contains these fields, division product_code,product total_sold_quantity rank_order
 
 ## FINDINGS & SOLUTIONS:
-* **Findings:*** Analyzed key metrics like Gross Profit, Contribution %, Orders by Overall Amount Sold, Average Gross Sales, and Average Manufacturing Costs.
+* **Findings:** Analyzed key metrics like Gross Profit, Contribution %, Orders by Overall Amount Sold, Average Gross Sales, and Average Manufacturing Costs.
 * **Solutions:** Proposed strategies to boost production rates by offering memberships, gift certificates, bundled deals, student discounts, and other special promotions.
